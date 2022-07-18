@@ -1,4 +1,4 @@
-package company;
+package com.company;
 
 public class Turtle extends Animal{
     public void swim(){
